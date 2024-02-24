@@ -1,0 +1,3 @@
+﻿"side_door_bottom_R_3mm_length"= 1934
+"side_door_bottom_R_3mm_Cut_RF_length"= 90
+"side_door_bottom_R_3mm_Cut_RB_length"= 90

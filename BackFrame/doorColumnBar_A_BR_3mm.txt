@@ -1,0 +1,3 @@
+﻿"doorColumnBar_A_BR_3mm_length"=2210
+
+

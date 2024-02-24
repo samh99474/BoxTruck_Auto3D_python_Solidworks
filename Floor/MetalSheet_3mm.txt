@@ -1,0 +1,6 @@
+﻿"MetalSheet_3mm_length"= 3030
+"MetalSheet_3mm_width"= 1923
+"MetalSheet_3mm_FloorCut_L_length"=1
+"MetalSheet_3mm_FloorCut_L_disdance"= 80
+"MetalSheet_3mm_FloorCut_R_length"= 1764
+"MetalSheet_3mm_FloorCut_R_disdance"= 598

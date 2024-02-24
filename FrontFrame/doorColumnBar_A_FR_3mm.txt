@@ -1,0 +1,3 @@
+﻿"doorColumnBar_A_FR_3mm_length"=2210
+"doorColumnBar_A_FR_3mm_length_Cut"=60
+
